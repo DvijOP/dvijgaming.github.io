@@ -1,0 +1,30 @@
+<html>
+      <head>
+	     <title> My Page </title>
+      </head>
+      
+      <body bgcolor=#1AA5D5 text=Black TOPMARGIN = 100 LEFTMARGIN= 300>
+	<center>
+            <h1>Dvij's Page </h1>
+            <img src="DvijArora.jpg" border=2 width=20%>
+	</center>
+            <br>
+            <br> My Name = Dvij Arora
+            <br> Age= 13 1/2 years	
+            <br> Favorite Subject= SST, Hindi , Maths and Science.
+	    <br> Favorite Food= Chicken, Kadhai panner, Subway burger and Chapatis.
+            <br> Favorite Resturant= IDK
+            <br> Favorite Country= United States of America, United Kingdom, Dubai and Singapore.
+            <br> Favorite Sport= Cricket, Football and Basketball.
+            <br>
+            <br>
+	    <br>
+            <br>
+	    <br>
+	    <br>
+            <br>Dvij Arora
+            <b>
+            </b>
+           
+      </body>
+</html>
